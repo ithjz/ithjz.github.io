@@ -16,3 +16,5 @@ http://www.mycodes.net/166/
 
 坦克大战https://ithjz.github.io/1/Battle_City/
 
+
+射击鸭子https://ithjz.github.io/1/canvas_shejiyazi/HTML5%20canvas%E5%B0%84%E5%87%BB%E9%B8%AD%E5%AD%90%E5%B0%8F%E6%B8%B8%E6%88%8F/ 
