@@ -186,7 +186,7 @@ function(e, t, i) {
         e.setVariable(n.failedCount, i),
         e.setVariable(n.perfectCount, 0),
         t && t(i),
-        i >= 3 && (e.pauseAudio("bgm"), e.playAudio("game-over"), e.setVariable(n.gameStartNow, !1))
+        i >= 9999999999999 && (e.pauseAudio("bgm"), e.playAudio("game-over"), e.setVariable(n.gameStartNow, !1))
     };
     t.addScore = function(e, t) {
         var i = e.getVariable(n.gameUserOption),
